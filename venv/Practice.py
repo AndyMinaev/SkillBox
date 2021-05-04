@@ -79,6 +79,10 @@ class Vehicle:
         self.fuel += 1000
         return '{} fuelled up'.format(self.model)
 
+    def act(self):
+        if self.fuel <= 10:
+            self.tank_up()
+
 
 class Truck(Vehicle):
 
@@ -109,9 +113,8 @@ class Truck(Vehicle):
         print('{} is on its way'.format(self.model))
 
     def act(self):
-        if self.fuel < 10:
-            self.tank_up()
-        elif isinstance(self.location, Road):
+        super().act()
+        if isinstance(self.location, Road):
             self.ride()
 
 
@@ -129,9 +132,8 @@ class AutoLoader(Vehicle):
         return res + ' is loading {}'.format(self.truck)
 
     def act(self):
-        if self.fuel < 10:
-            self.tank_up()
-        elif self.truck is None:
+        super().act()
+        if self.truck is None:
             self.truck = self.warehouse.get_next_truck
         elif self.role == 'loader':
             self.load()
