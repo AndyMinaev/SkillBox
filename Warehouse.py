@@ -42,7 +42,7 @@ class Warehouse:
         self.queue_out = []
 
     def __str__(self):
-        return 'Warehouse {}, content = {} kg'.format(self.name, self.content)
+        return 'Склад {}, объем хранения = {} кг'.format(self.name, self.content)
 
     def set_road_out(self, road):
         self.road_out = road
@@ -50,7 +50,7 @@ class Warehouse:
     def truck_arrived(self, truck):
         self.queue_in.append(truck)
         truck.location = self
-        print('Truck {} arrived at {}'.format(truck, self.name))
+        print('Грузовик {} прибыл в {}'.format(truck, self.name))
 
     def get_next_truck(self):
         if self.queue_in:
@@ -59,7 +59,7 @@ class Warehouse:
 
     def truck_ready(self, truck):
         self.queue_out.append(truck)
-        print('Truck {} ready to depart from {}'.format(truck, self.name))
+        print('Грузовик {} готов выезжать из {}'.format(truck, self.name))
 
     def act(self):
         while self.queue_out:
@@ -75,11 +75,11 @@ class Vehicle:
         self.fuel = 0
 
     def __str__(self):
-        return '{}, fuel = {} litres'.format(self.model, self.fuel)
+        return '{}, топливо = {} л'.format(self.model, self.fuel)
 
     def tank_up(self):
         self.fuel += 1000
-        print('{} fuelled up'.format(self.model))
+        print('{} заправился'.format(self.model))
 
 
 class Truck(Vehicle):
@@ -95,21 +95,21 @@ class Truck(Vehicle):
 
     def __str__(self):
         res = super().__str__()
-        return res + ', cargo = {} kg'.format(self.cargo)
+        return res + ', груз = {} кг'.format(self.cargo)
 
     def ride(self):
         self.fuel -= self.fuel_rate
         if self.distance_to_target > self.velocity:
             self.distance_to_target -= self.velocity
-            print('{} rides, distance to go = {} km'.format(self.model, self.distance_to_target))
+            print('{} едет по дороге, осталось {} км'.format(self.model, self.distance_to_target))
         else:
             self.location.end.truck_arrived(self)
-            print('{} arrived at {}'.format(self.model, self.location.name))
+            print('{} прибыл в {}'.format(self.model, self.location.name))
 
     def go_to(self, road):
         self.location = road
         self.distance_to_target = road.distance
-        print('{} departed towards {}'.format(self.model, self.location.end))
+        print('{} выехал в сторону {}'.format(self.model, self.location.end))
 
     def act(self):
         if self.fuel <= 10:
@@ -130,14 +130,14 @@ class AutoLoader(Vehicle):
 
     def __str__(self):
         res = super().__str__()
-        return res + ', is loading {}'.format(self.truck)
+        return res + ', грузит {}'.format(self.truck)
 
     def act(self):
         if self.fuel <= 10:
             self.tank_up()
         elif self.truck is None:
             self.truck = self.warehouse.get_next_truck()
-            print('{} started to work with {}'.format(self.model, self.truck))
+            print('{} начал работать с {}'.format(self.model, self.truck))
         elif self.role == 'loader':
             self.load()
         else:
@@ -152,7 +152,7 @@ class AutoLoader(Vehicle):
         else:
             self.warehouse.content -= truck_to_load
             self.truck.cargo += truck_to_load
-        print('{} loading {}'.format(self.model, self.truck))
+        print('{} грузил {}'.format(self.model, self.truck))
         if self.truck.cargo == self.truck.body_space:
             self.warehouse.truck_ready(self.truck)
             self.truck = None
@@ -165,7 +165,7 @@ class AutoLoader(Vehicle):
         else:
             self.truck.cargo -= self.truck.cargo
             self.warehouse.content += self.truck.cargo
-        print('{} unloading {}'.format(self.model, self.truck))
+        print('{} разгружал {}'.format(self.model, self.truck))
         if self.truck.cargo == 0:
             self.warehouse.truck_ready(self.truck)
             self.truck = None
