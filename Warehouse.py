@@ -158,14 +158,23 @@ class AutoLoader(Vehicle):
                 self.unload()
 
     def load(self):
+        if self.warehouse.content == 0:
+            cprint('Склад {} опустошен'.format(self.warehouse.name), color='red')
+            AutoLoader.dead_time += 1
+            if self.truck:
+                self.warehouse.truck_ready(self.truck)
+                self.truck = None
+            return
         self.fuel -= self.fuel_rate
         truck_to_load = self.truck.body_space - self.truck.cargo
         if truck_to_load >= self.bucket_capacity:
-            self.warehouse.content -= self.bucket_capacity
-            self.truck.cargo += self.bucket_capacity
+            cargo = self.bucket_capacity
         else:
-            self.warehouse.content -= truck_to_load
-            self.truck.cargo += truck_to_load
+            cargo = truck_to_load
+        if self.warehouse.content < cargo:
+            cargo = self.warehouse.content
+        self.warehouse.content -= cargo
+        self.truck.cargo += cargo
         print('{} грузил {}'.format(self.model, self.truck))
         if self.truck.cargo == self.truck.body_space:
             self.warehouse.truck_ready(self.truck)
@@ -199,26 +208,26 @@ piter.set_road_out(piter_moscow)
 loader_1 = AutoLoader(model='Bobcat', bucket_capacity=1000, warehouse=moscow, role='loader')
 loader_2 = AutoLoader(model='Lonking', bucket_capacity=500, warehouse=piter, role='unloader')
 
-truck_1 = Truck(model='КАМАЗ', body_space=5000)
-truck_2 = Truck(model='ГАЗ', body_space=2000)
-
-moscow.truck_arrived(truck_1)
-moscow.truck_arrived(truck_2)
+trucks = []
+for number in range(5):
+    truck = Truck(model='КАМАЗ №{}'.format(number+1), body_space=5000)
+    moscow.truck_arrived(truck)
+    trucks.append(truck)
 
 hour = 0
 while piter.content < TOTAL_CARGO:
     hour += 1
     print()
     cprint('---------- Час {} ----------'.format(hour), color='red')
-    truck_1.act()
-    truck_2.act()
+    for truck in trucks:
+        truck.act()
     loader_1.act()
     loader_2.act()
     moscow.act()
     piter.act()
     print()
-    cprint(truck_1, color='cyan')
-    cprint(truck_2, color='cyan')
+    for truck in trucks:
+        cprint(truck, color='cyan')
     cprint(loader_1, color='green')
     cprint(loader_2, color='green')
     cprint(moscow, color='yellow')
