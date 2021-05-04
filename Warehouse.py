@@ -109,7 +109,7 @@ class Truck(Vehicle):
     def go_to(self, road):
         self.location = road
         self.distance_to_target = road.distance
-        print('{} выехал в сторону {}'.format(self.model, self.location.end))
+        print('{} выехал в сторону {}'.format(self.model, self.location.end.name))
 
     def act(self):
         if self.fuel <= 10:
@@ -173,8 +173,8 @@ class AutoLoader(Vehicle):
 
 TOTAL_CARGO = 100000
 
-moscow = Warehouse(name='Moscow', content=TOTAL_CARGO)
-piter = Warehouse(name='St. Petersburg', content=0)
+moscow = Warehouse(name='Москва', content=TOTAL_CARGO)
+piter = Warehouse(name='Санкт-Петербург', content=0)
 
 moscow_piter = Road(start=moscow, end=piter, distance=715)
 piter_moscow = Road(start=piter, end=moscow, distance=780)
