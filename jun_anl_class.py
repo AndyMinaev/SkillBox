@@ -66,6 +66,9 @@ class Fraction:
         else:
             return self.numerator // self.denominator
 
+    def __float__(self):
+        return self.numerator / self.denominator
+
 
 number_1 = Fraction(3, 2)
 number_2 = Fraction(1, 4)
@@ -77,3 +80,5 @@ print('{} * {} = {}'.format(number_1, number_2, number_1 * number_2))
 print('{} * {} = {}'.format(number_1, 2, number_1 * 2))
 print('Приведение к целому числу дроби {} = {}'.format(number_1, number_1.__int__()))
 print('Приведение к целому числу дроби {} = {}'.format(number_2, number_2.__int__()))
+print('Приведение к числу с плавающей точкой дроби {} = {}'.format(number_1, number_1.__float__()))
+print('Приведение к числу с плавающей точкой дроби {} = {}'.format(number_2, number_2.__float__()))
