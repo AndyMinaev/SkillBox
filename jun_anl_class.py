@@ -14,16 +14,29 @@ class Fraction:
             numerator += other * denominator
         else:
             if isinstance(other, Fraction):
-                if self.denominator != other.denominator:
-                    # приводим обе дроби к единому знаменателю
-                    # по-хорошему надо приводить к наименьшему общему знаменателю, но лень :)
-                    self.numerator *= other.denominator
-                    other.numerator *= self.denominator
-                    self.denominator *= other.denominator
-                    other.denominator = self.denominator
-
+                if denominator != other.denominator:
+                    numerator = numerator * other.denominator + other.numerator * denominator
+                    denominator *= other.denominator
                 # складываем числители и выводим итоговый результат
-                result = Fraction(self.numerator + other.numerator, self.denominator)
+                result = Fraction(numerator, denominator)
+                return result
+            else:
+                return 'Ошибка ввода данных'
+        result = Fraction(numerator, denominator)
+        return result
+
+    def __sub__(self, other):
+        numerator = self.numerator
+        denominator = self.denominator
+        if isinstance(other, int):
+            numerator -= other * denominator
+        else:
+            if isinstance(other, Fraction):
+                if denominator != other.denominator:
+                    numerator = numerator * other.denominator - other.numerator * denominator
+                    denominator *= other.denominator
+                # складываем числители и выводим итоговый результат
+                result = Fraction(numerator, denominator)
                 return result
             else:
                 return 'Ошибка ввода данных'
@@ -32,6 +45,10 @@ class Fraction:
 
 
 
-number_1 = Fraction(1, 3)
-number_2 = Fraction(1, 6)
+
+number_1 = Fraction(1, 2)
+number_2 = Fraction(1, 4)
 print(number_1 + number_2)
+print(number_1 + 2)
+print(number_1 - number_2)
+print(number_1 - 2)
