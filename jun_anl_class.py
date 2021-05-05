@@ -60,8 +60,14 @@ class Fraction:
         result = Fraction(numerator, denominator)
         return result
 
+    def __int__(self):
+        if (self.numerator % self.denominator) / self.denominator >= 0.5:
+            return self.numerator // self.denominator + 1
+        else:
+            return self.numerator // self.denominator
 
-number_1 = Fraction(1, 2)
+
+number_1 = Fraction(3, 2)
 number_2 = Fraction(1, 4)
 print('{} + {} = {}'.format(number_1, number_2, number_1 + number_2))
 print('{} + {} = {}'.format(number_1, 2, number_1 + 2))
@@ -69,3 +75,5 @@ print('{} - {} = {}'.format(number_1, number_2, number_1 - number_2))
 print('{} - {} = {}'.format(number_1, 2, number_1 - 2))
 print('{} * {} = {}'.format(number_1, number_2, number_1 * number_2))
 print('{} * {} = {}'.format(number_1, 2, number_1 * 2))
+print('Приведение к целому числу дроби {} = {}'.format(number_1, number_1.__int__()))
+print('Приведение к целому числу дроби {} = {}'.format(number_2, number_2.__int__()))
