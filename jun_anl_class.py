@@ -70,6 +70,18 @@ class Fraction:
         return self.numerator / self.denominator
 
 
+class OperationsOnFraction(Fraction):
+
+    def getint(self):
+        res = super().__int__()
+        print('Приведение к целому числу дроби дочернего класса {} = {}'.format(self, res))
+
+    def getfloat(self):
+        res = super().__float__()
+        print('Приведение к числу c плавающей точкой дроби дочернего класса {} = {}'.format(self, res))
+
+
+
 number_1 = Fraction(3, 2)
 number_2 = Fraction(1, 4)
 print('{} + {} = {}'.format(number_1, number_2, number_1 + number_2))
@@ -82,3 +94,6 @@ print('Приведение к целому числу дроби {} = {}'.forma
 print('Приведение к целому числу дроби {} = {}'.format(number_2, number_2.__int__()))
 print('Приведение к числу с плавающей точкой дроби {} = {}'.format(number_1, number_1.__float__()))
 print('Приведение к числу с плавающей точкой дроби {} = {}'.format(number_2, number_2.__float__()))
+number_3 = OperationsOnFraction(4, 5)
+number_3.getint()
+number_3.getfloat()
