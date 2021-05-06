@@ -25,6 +25,16 @@ class Fraction:
         result = Fraction(numerator, denominator)
         return result
 
+    def __radd__(self, other):
+        numerator = self.numerator
+        denominator = self.denominator
+        if isinstance(other, int):
+            numerator += other * denominator
+        else:
+            return 'Ошибка ввода данных'
+        result = Fraction(numerator, denominator)
+        return result
+
     def __sub__(self, other):
         numerator = self.numerator
         denominator = self.denominator
@@ -44,6 +54,16 @@ class Fraction:
         result = Fraction(numerator, denominator)
         return result
 
+    def __rsub__(self, other):
+        numerator = self.numerator
+        denominator = self.denominator
+        if isinstance(other, int):
+            numerator = other * denominator - numerator
+        else:
+            return 'Ошибка ввода данных'
+        result = Fraction(numerator, denominator)
+        return result
+
     def __mul__(self, other):
         numerator = self.numerator
         denominator = self.denominator
@@ -57,6 +77,16 @@ class Fraction:
                 return result
             else:
                 return 'Ошибка ввода данных'
+        result = Fraction(numerator, denominator)
+        return result
+
+    def __rmul__(self, other):
+        numerator = self.numerator
+        denominator = self.denominator
+        if isinstance(other, int):
+            numerator *= other
+        else:
+            return 'Ошибка ввода данных'
         result = Fraction(numerator, denominator)
         return result
 
@@ -84,16 +114,32 @@ class OperationsOnFraction(Fraction):
 
 number_1 = Fraction(3, 2)
 number_2 = Fraction(1, 4)
+# сложение
 print('{} + {} = {}'.format(number_1, number_2, number_1 + number_2))
 print('{} + {} = {}'.format(number_1, 2, number_1 + 2))
+print('{} + {} = {}'.format(2, number_1, 2 + number_1))
+print()
+
+# вычитание
 print('{} - {} = {}'.format(number_1, number_2, number_1 - number_2))
 print('{} - {} = {}'.format(number_1, 2, number_1 - 2))
+print('{} - {} = {}'.format(2, number_1, 2 - number_1))
+print()
+
+# умножение
 print('{} * {} = {}'.format(number_1, number_2, number_1 * number_2))
 print('{} * {} = {}'.format(number_1, 2, number_1 * 2))
+print('{} * {} = {}'.format(2, number_1, 2 * number_1))
+print()
+
+# приведение к int и float
 print('Приведение к целому числу дроби {} = {}'.format(number_1, number_1.__int__()))
 print('Приведение к целому числу дроби {} = {}'.format(number_2, number_2.__int__()))
 print('Приведение к числу с плавающей точкой дроби {} = {}'.format(number_1, number_1.__float__()))
 print('Приведение к числу с плавающей точкой дроби {} = {}'.format(number_2, number_2.__float__()))
+print()
+
+# операции с дочерним классом
 number_3 = OperationsOnFraction(4, 5)
 number_3.getint()
 number_3.getfloat()
