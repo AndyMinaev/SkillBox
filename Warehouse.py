@@ -209,7 +209,7 @@ loader_1 = AutoLoader(model='Bobcat', bucket_capacity=1000, warehouse=moscow, ro
 loader_2 = AutoLoader(model='Lonking', bucket_capacity=500, warehouse=piter, role='unloader')
 
 trucks = []
-for number in range(5):
+for number in range(10):
     truck = Truck(model='КАМАЗ №{}'.format(number+1), body_space=5000)
     moscow.truck_arrived(truck)
     trucks.append(truck)
