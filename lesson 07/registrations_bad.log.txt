@@ -1,215 +1,1336 @@
+line #12, <class '__main__.NotNameError'>, Invalid name Пенг42
+line #13, <class '__main__.NotEmailError'>, Incorrect email
+line #21, <class '__main__.NotEmailError'>, Incorrect email
+line #41, <class 'ValueError'>, Age too small
+line #45, <class 'ValueError'>, Age too large
+line #55, <class '__main__.NotEmailError'>, Incorrect email
+line #104, <class 'ValueError'>, Age too small
+line #106, <class 'ValueError'>, Age too small
+line #109, <class '__main__.NotEmailError'>, Incorrect email
+line #111, <class '__main__.NotNameError'>, Invalid name Ярослав42
+line #116, <class 'ValueError'>, Age too large
+line #118, <class 'ValueError'>, Age too small
+line #122, <class '__main__.NotNameError'>, Invalid name Гнойный666
+line #129, <class '__main__.NotEmailError'>, Incorrect email
+line #130, <class '__main__.NotEmailError'>, Incorrect email
+line #131, <class 'ValueError'>, Age too large
+line #136, <class '__main__.NotNameError'>, Invalid name Земфира42
+line #139, <class 'ValueError'>, Age too small
+line #144, <class '__main__.NotNameError'>, Invalid name Пенг666
+line #155, <class 'ValueError'>, Age too large
 line #167, <class 'ValueError'>, not enough values to unpack (expected 3, got 2)
+line #175, <class 'ValueError'>, Age too small
 line #182, <class 'ValueError'>, not enough values to unpack (expected 3, got 2)
+line #183, <class '__main__.NotNameError'>, Invalid name Ольга666
+line #190, <class '__main__.NotEmailError'>, Incorrect email
+line #197, <class 'ValueError'>, Age too small
+line #199, <class '__main__.NotEmailError'>, Incorrect email
+line #203, <class '__main__.NotEmailError'>, Incorrect email
+line #208, <class 'ValueError'>, Age too large
+line #211, <class 'ValueError'>, Age too small
 line #215, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #218, <class '__main__.NotEmailError'>, Incorrect email
 line #219, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #221, <class '__main__.NotNameError'>, Invalid name Ли666
+line #223, <class '__main__.NotNameError'>, Invalid name Яочуан666
+line #224, <class 'ValueError'>, Age too small
+line #226, <class '__main__.NotNameError'>, Invalid name Гнойный42
+line #256, <class '__main__.NotNameError'>, Invalid name Ли42
+line #264, <class '__main__.NotEmailError'>, Incorrect email
+line #268, <class '__main__.NotNameError'>, Invalid name Анна666
+line #280, <class '__main__.NotNameError'>, Invalid name Тролль666
 line #281, <class 'ValueError'>, not enough values to unpack (expected 3, got 2)
 line #282, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #291, <class 'ValueError'>, Age too small
+line #293, <class 'ValueError'>, Age too small
+line #294, <class 'ValueError'>, Age too small
+line #296, <class '__main__.NotEmailError'>, Incorrect email
+line #317, <class '__main__.NotEmailError'>, Incorrect email
+line #330, <class '__main__.NotEmailError'>, Incorrect email
+line #339, <class '__main__.NotEmailError'>, Incorrect email
 line #346, <class 'ValueError'>, not enough values to unpack (expected 3, got 2)
 line #347, <class 'ValueError'>, not enough values to unpack (expected 3, got 2)
+line #350, <class '__main__.NotNameError'>, Invalid name Анна42
+line #363, <class '__main__.NotEmailError'>, Incorrect email
+line #376, <class 'ValueError'>, Age too small
+line #379, <class 'ValueError'>, Age too small
+line #389, <class '__main__.NotEmailError'>, Incorrect email
+line #391, <class 'ValueError'>, Age too small
+line #395, <class 'ValueError'>, Age too small
+line #399, <class 'ValueError'>, Age too large
+line #404, <class '__main__.NotNameError'>, Invalid name Волочкова42
 line #407, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #408, <class '__main__.NotNameError'>, Invalid name Нагиев666
+line #415, <class '__main__.NotEmailError'>, Incorrect email
+line #417, <class '__main__.NotEmailError'>, Incorrect email
 line #424, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #428, <class '__main__.NotEmailError'>, Incorrect email
+line #455, <class '__main__.NotEmailError'>, Incorrect email
+line #468, <class 'ValueError'>, Age too large
+line #486, <class '__main__.NotNameError'>, Invalid name Бузова42
+line #506, <class '__main__.NotEmailError'>, Incorrect email
+line #507, <class 'ValueError'>, Age too small
+line #515, <class 'ValueError'>, Age too large
 line #521, <class 'ValueError'>, not enough values to unpack (expected 3, got 2)
+line #535, <class '__main__.NotEmailError'>, Incorrect email
+line #544, <class '__main__.NotEmailError'>, Incorrect email
 line #547, <class 'ValueError'>, not enough values to unpack (expected 3, got 2)
+line #548, <class 'ValueError'>, Age too small
+line #551, <class 'ValueError'>, Age too large
+line #557, <class '__main__.NotEmailError'>, Incorrect email
+line #562, <class '__main__.NotNameError'>, Invalid name Анна666
+line #570, <class '__main__.NotNameError'>, Invalid name Ольга42
+line #584, <class '__main__.NotNameError'>, Invalid name Ольга42
+line #595, <class 'ValueError'>, Age too large
+line #599, <class '__main__.NotEmailError'>, Incorrect email
+line #604, <class 'ValueError'>, Age too small
+line #607, <class 'ValueError'>, Age too small
+line #610, <class 'ValueError'>, Age too large
 line #617, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #618, <class '__main__.NotEmailError'>, Incorrect email
+line #622, <class '__main__.NotNameError'>, Invalid name Тролль!!!!1
+line #626, <class '__main__.NotNameError'>, Invalid name Ярослав!!!!1
+line #642, <class '__main__.NotEmailError'>, Incorrect email
+line #647, <class 'ValueError'>, Age too small
+line #660, <class '__main__.NotNameError'>, Invalid name Джигурда666
 line #668, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
 line #676, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #694, <class 'ValueError'>, Age too large
+line #699, <class 'ValueError'>, Age too small
+line #724, <class '__main__.NotEmailError'>, Incorrect email
 line #730, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #740, <class 'ValueError'>, Age too small
+line #773, <class '__main__.NotNameError'>, Invalid name Геннадий!!!!1
+line #775, <class '__main__.NotEmailError'>, Incorrect email
+line #780, <class 'ValueError'>, Age too small
+line #784, <class 'ValueError'>, Age too small
+line #790, <class '__main__.NotEmailError'>, Incorrect email
+line #823, <class '__main__.NotNameError'>, Invalid name Гнойный666
 line #838, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #844, <class '__main__.NotEmailError'>, Incorrect email
+line #858, <class '__main__.NotEmailError'>, Incorrect email
+line #861, <class 'ValueError'>, Age too small
+line #863, <class 'ValueError'>, Age too small
+line #869, <class '__main__.NotEmailError'>, Incorrect email
+line #870, <class 'ValueError'>, Age too small
+line #880, <class '__main__.NotNameError'>, Invalid name Мария666
+line #893, <class '__main__.NotNameError'>, Invalid name Ольга666
 line #896, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #898, <class 'ValueError'>, Age too large
 line #903, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
 line #904, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #905, <class '__main__.NotEmailError'>, Incorrect email
+line #912, <class 'ValueError'>, Age too large
+line #918, <class 'ValueError'>, Age too large
+line #921, <class 'ValueError'>, Age too large
+line #937, <class '__main__.NotNameError'>, Invalid name Равшан!!!!1
 line #945, <class 'ValueError'>, not enough values to unpack (expected 3, got 2)
+line #953, <class '__main__.NotEmailError'>, Incorrect email
+line #957, <class 'ValueError'>, Age too large
+line #985, <class '__main__.NotNameError'>, Invalid name Михаил666
+line #986, <class '__main__.NotNameError'>, Invalid name Нагиев666
+line #996, <class '__main__.NotNameError'>, Invalid name Муммий!!!!1
+line #1000, <class '__main__.NotNameError'>, Invalid name Равшан666
 line #1009, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #1023, <class '__main__.NotEmailError'>, Incorrect email
+line #1024, <class 'ValueError'>, Age too small
+line #1030, <class '__main__.NotNameError'>, Invalid name Сянцзян666
+line #1046, <class 'ValueError'>, Age too small
+line #1048, <class '__main__.NotNameError'>, Invalid name Ли666
+line #1051, <class '__main__.NotEmailError'>, Incorrect email
+line #1052, <class '__main__.NotNameError'>, Invalid name Равшан42
+line #1056, <class '__main__.NotEmailError'>, Incorrect email
+line #1081, <class '__main__.NotNameError'>, Invalid name Ольга42
+line #1087, <class '__main__.NotEmailError'>, Incorrect email
+line #1091, <class '__main__.NotEmailError'>, Incorrect email
+line #1105, <class '__main__.NotEmailError'>, Incorrect email
+line #1111, <class '__main__.NotEmailError'>, Incorrect email
+line #1127, <class '__main__.NotNameError'>, Invalid name Анна!!!!1
+line #1134, <class 'ValueError'>, Age too small
 line #1135, <class 'ValueError'>, not enough values to unpack (expected 3, got 2)
+line #1142, <class '__main__.NotEmailError'>, Incorrect email
 line #1147, <class 'ValueError'>, not enough values to unpack (expected 3, got 2)
+line #1164, <class '__main__.NotNameError'>, Invalid name Волочкова42
+line #1179, <class '__main__.NotEmailError'>, Incorrect email
+line #1188, <class 'ValueError'>, Age too small
 line #1190, <class 'ValueError'>, not enough values to unpack (expected 3, got 2)
+line #1202, <class 'ValueError'>, Age too small
+line #1203, <class '__main__.NotEmailError'>, Incorrect email
+line #1206, <class '__main__.NotNameError'>, Invalid name Ван!!!!1
+line #1211, <class '__main__.NotEmailError'>, Incorrect email
+line #1229, <class 'ValueError'>, Age too large
+line #1232, <class 'ValueError'>, Age too large
+line #1236, <class '__main__.NotNameError'>, Invalid name Равшан!!!!1
 line #1237, <class 'ValueError'>, not enough values to unpack (expected 3, got 2)
 line #1265, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
 line #1266, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #1279, <class '__main__.NotNameError'>, Invalid name Ли666
+line #1287, <class '__main__.NotNameError'>, Invalid name Нагиев42
+line #1295, <class '__main__.NotEmailError'>, Incorrect email
 line #1297, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #1300, <class '__main__.NotEmailError'>, Incorrect email
+line #1304, <class '__main__.NotNameError'>, Invalid name Ольга!!!!1
+line #1308, <class 'ValueError'>, Age too small
+line #1315, <class '__main__.NotEmailError'>, Incorrect email
 line #1335, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #1341, <class 'ValueError'>, Age too small
+line #1343, <class 'ValueError'>, Age too small
+line #1365, <class '__main__.NotEmailError'>, Incorrect email
+line #1377, <class '__main__.NotEmailError'>, Incorrect email
+line #1379, <class '__main__.NotEmailError'>, Incorrect email
+line #1381, <class '__main__.NotEmailError'>, Incorrect email
+line #1383, <class '__main__.NotNameError'>, Invalid name Волочкова666
+line #1392, <class 'ValueError'>, Age too large
+line #1394, <class '__main__.NotNameError'>, Invalid name Джамшут666
+line #1398, <class 'ValueError'>, Age too small
+line #1400, <class '__main__.NotNameError'>, Invalid name Ольга666
+line #1418, <class '__main__.NotEmailError'>, Incorrect email
+line #1432, <class '__main__.NotNameError'>, Invalid name Муммий!!!!1
+line #1435, <class 'ValueError'>, Age too small
+line #1438, <class '__main__.NotNameError'>, Invalid name Джигурда!!!!1
+line #1450, <class 'ValueError'>, Age too large
+line #1453, <class 'ValueError'>, Age too small
+line #1456, <class '__main__.NotEmailError'>, Incorrect email
+line #1466, <class '__main__.NotEmailError'>, Incorrect email
 line #1482, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #1490, <class 'ValueError'>, Age too small
+line #1501, <class '__main__.NotEmailError'>, Incorrect email
+line #1502, <class '__main__.NotEmailError'>, Incorrect email
+line #1507, <class 'ValueError'>, Age too large
 line #1516, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #1524, <class '__main__.NotEmailError'>, Incorrect email
+line #1527, <class '__main__.NotEmailError'>, Incorrect email
+line #1529, <class 'ValueError'>, Age too small
+line #1530, <class '__main__.NotEmailError'>, Incorrect email
+line #1531, <class '__main__.NotNameError'>, Invalid name Ли!!!!1
+line #1540, <class '__main__.NotNameError'>, Invalid name Хенг666
+line #1554, <class '__main__.NotNameError'>, Invalid name Равшан42
 line #1556, <class 'ValueError'>, not enough values to unpack (expected 3, got 2)
+line #1559, <class '__main__.NotNameError'>, Invalid name Нагиев42
+line #1563, <class 'ValueError'>, Age too small
+line #1564, <class 'ValueError'>, Age too large
+line #1566, <class '__main__.NotEmailError'>, Incorrect email
+line #1572, <class 'ValueError'>, Age too small
+line #1584, <class '__main__.NotNameError'>, Invalid name Михаил666
+line #1590, <class 'ValueError'>, Age too large
 line #1591, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #1603, <class '__main__.NotNameError'>, Invalid name Ольга!!!!1
+line #1633, <class 'ValueError'>, Age too large
 line #1645, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #1654, <class '__main__.NotEmailError'>, Incorrect email
 line #1657, <class 'ValueError'>, not enough values to unpack (expected 3, got 2)
+line #1661, <class '__main__.NotNameError'>, Invalid name Михаил!!!!1
+line #1664, <class 'ValueError'>, Age too small
+line #1681, <class '__main__.NotEmailError'>, Incorrect email
+line #1687, <class 'ValueError'>, Age too small
 line #1727, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #1732, <class '__main__.NotNameError'>, Invalid name Анна42
 line #1739, <class 'ValueError'>, not enough values to unpack (expected 3, got 2)
+line #1742, <class '__main__.NotNameError'>, Invalid name Анна42
+line #1757, <class 'ValueError'>, Age too small
 line #1766, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #1767, <class '__main__.NotNameError'>, Invalid name Нагиев666
 line #1788, <class 'ValueError'>, not enough values to unpack (expected 3, got 2)
+line #1789, <class 'ValueError'>, Age too large
+line #1792, <class '__main__.NotEmailError'>, Incorrect email
+line #1798, <class '__main__.NotNameError'>, Invalid name Хенг!!!!1
+line #1806, <class '__main__.NotNameError'>, Invalid name Сянцзян666
+line #1808, <class '__main__.NotEmailError'>, Incorrect email
+line #1815, <class '__main__.NotEmailError'>, Incorrect email
 line #1830, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #1841, <class '__main__.NotEmailError'>, Incorrect email
+line #1860, <class 'ValueError'>, Age too large
 line #1879, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #1892, <class 'ValueError'>, Age too large
+line #1895, <class '__main__.NotNameError'>, Invalid name Чонгкун42
+line #1896, <class '__main__.NotNameError'>, Invalid name Геннадий42
+line #1903, <class 'ValueError'>, Age too small
 line #1906, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #1917, <class '__main__.NotEmailError'>, Incorrect email
+line #1940, <class '__main__.NotEmailError'>, Incorrect email
 line #1944, <class 'ValueError'>, not enough values to unpack (expected 3, got 2)
+line #1950, <class '__main__.NotEmailError'>, Incorrect email
+line #1952, <class '__main__.NotEmailError'>, Incorrect email
+line #1955, <class 'ValueError'>, Age too large
+line #1961, <class 'ValueError'>, Age too large
+line #1974, <class 'ValueError'>, Age too small
 line #1996, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
 line #2008, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #2009, <class 'ValueError'>, Age too large
+line #2039, <class '__main__.NotEmailError'>, Incorrect email
+line #2040, <class 'ValueError'>, Age too small
+line #2049, <class 'ValueError'>, Age too large
+line #2052, <class 'ValueError'>, Age too small
+line #2062, <class 'ValueError'>, Age too large
+line #2069, <class 'ValueError'>, Age too small
+line #2082, <class 'ValueError'>, Age too small
 line #2105, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #2107, <class 'ValueError'>, Age too small
 line #2121, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #2134, <class '__main__.NotNameError'>, Invalid name Артём42
 line #2145, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #2149, <class '__main__.NotEmailError'>, Incorrect email
+line #2165, <class '__main__.NotEmailError'>, Incorrect email
+line #2171, <class '__main__.NotEmailError'>, Incorrect email
+line #2172, <class '__main__.NotNameError'>, Invalid name Геннадий666
+line #2173, <class '__main__.NotEmailError'>, Incorrect email
+line #2180, <class '__main__.NotNameError'>, Invalid name Равшан666
 line #2187, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #2207, <class 'ValueError'>, Age too small
+line #2216, <class 'ValueError'>, Age too small
+line #2217, <class '__main__.NotNameError'>, Invalid name Степан!!!!1
+line #2227, <class '__main__.NotEmailError'>, Incorrect email
+line #2244, <class 'ValueError'>, Age too small
+line #2245, <class '__main__.NotNameError'>, Invalid name Мария!!!!1
+line #2248, <class '__main__.NotNameError'>, Invalid name Дмитрий42
+line #2250, <class 'ValueError'>, Age too small
+line #2263, <class 'ValueError'>, Age too small
 line #2264, <class 'ValueError'>, not enough values to unpack (expected 3, got 2)
+line #2269, <class 'ValueError'>, Age too small
+line #2277, <class 'ValueError'>, Age too large
+line #2279, <class '__main__.NotNameError'>, Invalid name Гнойный666
+line #2282, <class 'ValueError'>, Age too small
+line #2304, <class '__main__.NotNameError'>, Invalid name Ярослав!!!!1
+line #2318, <class '__main__.NotNameError'>, Invalid name Ярослав42
+line #2324, <class 'ValueError'>, Age too large
+line #2329, <class '__main__.NotEmailError'>, Incorrect email
 line #2338, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
 line #2341, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #2348, <class 'ValueError'>, Age too large
+line #2353, <class 'ValueError'>, Age too small
+line #2356, <class '__main__.NotNameError'>, Invalid name Чехова42
+line #2362, <class 'ValueError'>, Age too small
+line #2368, <class 'ValueError'>, Age too small
+line #2372, <class 'ValueError'>, Age too large
+line #2375, <class '__main__.NotNameError'>, Invalid name Джамшут666
+line #2382, <class 'ValueError'>, Age too small
+line #2398, <class '__main__.NotNameError'>, Invalid name Ярослав!!!!1
+line #2409, <class '__main__.NotEmailError'>, Incorrect email
+line #2410, <class 'ValueError'>, Age too small
+line #2419, <class 'ValueError'>, Age too small
+line #2421, <class '__main__.NotEmailError'>, Incorrect email
+line #2423, <class '__main__.NotNameError'>, Invalid name Ярослав666
+line #2425, <class '__main__.NotNameError'>, Invalid name Михаил42
+line #2431, <class 'ValueError'>, Age too small
+line #2440, <class 'ValueError'>, Age too large
+line #2446, <class '__main__.NotEmailError'>, Incorrect email
+line #2476, <class '__main__.NotNameError'>, Invalid name Ли666
+line #2477, <class '__main__.NotNameError'>, Invalid name Дмитрий666
+line #2486, <class 'ValueError'>, Age too small
+line #2493, <class 'ValueError'>, Age too small
+line #2497, <class 'ValueError'>, Age too large
+line #2504, <class '__main__.NotNameError'>, Invalid name Джамшут666
+line #2515, <class '__main__.NotEmailError'>, Incorrect email
+line #2522, <class '__main__.NotNameError'>, Invalid name Ярослав!!!!1
+line #2534, <class '__main__.NotEmailError'>, Incorrect email
 line #2538, <class 'ValueError'>, not enough values to unpack (expected 3, got 2)
 line #2546, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #2550, <class 'ValueError'>, Age too small
+line #2552, <class 'ValueError'>, Age too large
+line #2561, <class 'ValueError'>, Age too large
+line #2564, <class '__main__.NotNameError'>, Invalid name Муммий666
+line #2568, <class 'ValueError'>, Age too small
 line #2576, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #2589, <class 'ValueError'>, Age too small
+line #2601, <class '__main__.NotEmailError'>, Incorrect email
+line #2606, <class '__main__.NotEmailError'>, Incorrect email
+line #2612, <class '__main__.NotNameError'>, Invalid name Ли42
+line #2613, <class 'ValueError'>, Age too large
 line #2625, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #2628, <class '__main__.NotEmailError'>, Incorrect email
+line #2637, <class 'ValueError'>, Age too small
+line #2640, <class 'ValueError'>, Age too large
+line #2641, <class 'ValueError'>, Age too large
+line #2643, <class 'ValueError'>, Age too small
 line #2652, <class 'ValueError'>, not enough values to unpack (expected 3, got 2)
+line #2658, <class 'ValueError'>, Age too small
+line #2666, <class '__main__.NotEmailError'>, Incorrect email
+line #2675, <class '__main__.NotNameError'>, Invalid name Ольга666
+line #2678, <class 'ValueError'>, Age too small
+line #2683, <class '__main__.NotNameError'>, Invalid name Волочкова666
+line #2684, <class '__main__.NotNameError'>, Invalid name Равшан666
+line #2686, <class 'ValueError'>, Age too small
+line #2697, <class '__main__.NotEmailError'>, Incorrect email
+line #2698, <class 'ValueError'>, Age too small
+line #2702, <class 'ValueError'>, Age too large
+line #2709, <class 'ValueError'>, Age too small
+line #2711, <class 'ValueError'>, Age too large
+line #2727, <class '__main__.NotNameError'>, Invalid name Джамшут666
+line #2728, <class 'ValueError'>, Age too small
+line #2746, <class '__main__.NotNameError'>, Invalid name Михаил!!!!1
+line #2756, <class '__main__.NotEmailError'>, Incorrect email
+line #2757, <class '__main__.NotEmailError'>, Incorrect email
+line #2773, <class '__main__.NotEmailError'>, Incorrect email
 line #2779, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #2782, <class 'ValueError'>, Age too small
+line #2783, <class 'ValueError'>, Age too large
+line #2790, <class '__main__.NotEmailError'>, Incorrect email
+line #2791, <class '__main__.NotEmailError'>, Incorrect email
+line #2793, <class '__main__.NotNameError'>, Invalid name Владимир42
+line #2795, <class '__main__.NotEmailError'>, Incorrect email
+line #2804, <class 'ValueError'>, Age too large
+line #2805, <class '__main__.NotEmailError'>, Incorrect email
 line #2822, <class 'ValueError'>, not enough values to unpack (expected 3, got 2)
+line #2824, <class 'ValueError'>, Age too large
+line #2828, <class '__main__.NotNameError'>, Invalid name Чехова42
+line #2833, <class '__main__.NotNameError'>, Invalid name Ольга42
+line #2844, <class '__main__.NotNameError'>, Invalid name Муммий42
+line #2850, <class 'ValueError'>, Age too small
+line #2851, <class '__main__.NotEmailError'>, Incorrect email
 line #2855, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #2888, <class 'ValueError'>, Age too small
+line #2910, <class '__main__.NotEmailError'>, Incorrect email
+line #2911, <class '__main__.NotNameError'>, Invalid name Земфира!!!!1
+line #2917, <class '__main__.NotEmailError'>, Incorrect email
+line #2918, <class 'ValueError'>, Age too large
+line #2938, <class '__main__.NotNameError'>, Invalid name Бузова42
+line #2946, <class '__main__.NotEmailError'>, Incorrect email
 line #2948, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #2963, <class '__main__.NotEmailError'>, Incorrect email
+line #2964, <class 'ValueError'>, Age too large
 line #2984, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #2985, <class 'ValueError'>, Age too large
 line #2995, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
 line #3005, <class 'ValueError'>, not enough values to unpack (expected 3, got 2)
+line #3007, <class '__main__.NotEmailError'>, Incorrect email
+line #3009, <class 'ValueError'>, Age too small
+line #3011, <class '__main__.NotEmailError'>, Incorrect email
+line #3014, <class '__main__.NotEmailError'>, Incorrect email
+line #3015, <class 'ValueError'>, Age too small
+line #3016, <class '__main__.NotEmailError'>, Incorrect email
+line #3023, <class 'ValueError'>, Age too small
+line #3026, <class 'ValueError'>, Age too small
+line #3032, <class '__main__.NotNameError'>, Invalid name Джигурда666
+line #3035, <class '__main__.NotNameError'>, Invalid name Геннадий666
+line #3041, <class 'ValueError'>, Age too small
+line #3059, <class 'ValueError'>, Age too large
+line #3060, <class '__main__.NotEmailError'>, Incorrect email
+line #3061, <class '__main__.NotNameError'>, Invalid name Тролль!!!!1
+line #3071, <class 'ValueError'>, Age too large
+line #3085, <class '__main__.NotNameError'>, Invalid name Бузова666
 line #3086, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #3089, <class 'ValueError'>, Age too large
+line #3104, <class '__main__.NotNameError'>, Invalid name Ольга666
 line #3105, <class 'ValueError'>, not enough values to unpack (expected 3, got 2)
+line #3109, <class '__main__.NotNameError'>, Invalid name Хенг666
+line #3111, <class 'ValueError'>, Age too small
 line #3113, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #3117, <class 'ValueError'>, Age too small
+line #3129, <class 'ValueError'>, Age too large
 line #3134, <class 'ValueError'>, not enough values to unpack (expected 3, got 2)
+line #3136, <class 'ValueError'>, Age too large
+line #3139, <class '__main__.NotNameError'>, Invalid name Земфира666
+line #3141, <class 'ValueError'>, Age too large
+line #3142, <class '__main__.NotNameError'>, Invalid name Волочкова42
+line #3144, <class '__main__.NotEmailError'>, Incorrect email
+line #3151, <class 'ValueError'>, Age too small
+line #3157, <class '__main__.NotEmailError'>, Incorrect email
+line #3174, <class '__main__.NotEmailError'>, Incorrect email
+line #3177, <class '__main__.NotNameError'>, Invalid name Ярослав!!!!1
+line #3182, <class '__main__.NotEmailError'>, Incorrect email
+line #3185, <class 'ValueError'>, Age too large
+line #3186, <class '__main__.NotEmailError'>, Incorrect email
+line #3204, <class 'ValueError'>, Age too large
+line #3205, <class '__main__.NotNameError'>, Invalid name Пенг42
 line #3220, <class 'ValueError'>, not enough values to unpack (expected 3, got 2)
+line #3226, <class 'ValueError'>, Age too large
+line #3233, <class '__main__.NotNameError'>, Invalid name Ольга666
 line #3234, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
 line #3236, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #3240, <class 'ValueError'>, Age too small
+line #3241, <class '__main__.NotNameError'>, Invalid name Хенг42
+line #3243, <class '__main__.NotNameError'>, Invalid name Мария666
+line #3246, <class '__main__.NotEmailError'>, Incorrect email
+line #3249, <class 'ValueError'>, Age too small
+line #3256, <class '__main__.NotEmailError'>, Incorrect email
+line #3260, <class '__main__.NotEmailError'>, Incorrect email
+line #3271, <class 'ValueError'>, Age too small
 line #3273, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #3278, <class '__main__.NotNameError'>, Invalid name Дмитрий!!!!1
+line #3283, <class '__main__.NotNameError'>, Invalid name Артём42
+line #3292, <class 'ValueError'>, Age too small
 line #3296, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #3297, <class '__main__.NotEmailError'>, Incorrect email
+line #3307, <class '__main__.NotEmailError'>, Incorrect email
+line #3318, <class 'ValueError'>, Age too large
+line #3328, <class '__main__.NotEmailError'>, Incorrect email
+line #3330, <class '__main__.NotNameError'>, Invalid name Гнойный666
+line #3339, <class '__main__.NotNameError'>, Invalid name Чонгкун42
+line #3340, <class '__main__.NotNameError'>, Invalid name Чехова42
+line #3344, <class '__main__.NotEmailError'>, Incorrect email
+line #3371, <class '__main__.NotEmailError'>, Incorrect email
+line #3373, <class 'ValueError'>, Age too large
+line #3375, <class '__main__.NotNameError'>, Invalid name Муммий!!!!1
+line #3379, <class 'ValueError'>, Age too large
+line #3380, <class 'ValueError'>, Age too small
+line #3381, <class '__main__.NotNameError'>, Invalid name Владимир666
+line #3388, <class '__main__.NotNameError'>, Invalid name Яочуан!!!!1
+line #3393, <class 'ValueError'>, Age too large
+line #3397, <class 'ValueError'>, Age too small
+line #3399, <class '__main__.NotEmailError'>, Incorrect email
+line #3400, <class 'ValueError'>, Age too large
+line #3403, <class 'ValueError'>, Age too small
+line #3412, <class 'ValueError'>, Age too small
+line #3414, <class 'ValueError'>, Age too small
+line #3421, <class '__main__.NotNameError'>, Invalid name Муммий666
+line #3437, <class '__main__.NotEmailError'>, Incorrect email
+line #3451, <class '__main__.NotEmailError'>, Incorrect email
 line #3454, <class 'ValueError'>, not enough values to unpack (expected 3, got 2)
+line #3455, <class '__main__.NotEmailError'>, Incorrect email
+line #3463, <class 'ValueError'>, Age too small
+line #3466, <class 'ValueError'>, Age too small
+line #3476, <class 'ValueError'>, Age too small
+line #3477, <class '__main__.NotNameError'>, Invalid name Джамшут666
+line #3480, <class 'ValueError'>, Age too large
+line #3481, <class '__main__.NotEmailError'>, Incorrect email
 line #3498, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #3500, <class 'ValueError'>, Age too small
+line #3504, <class '__main__.NotNameError'>, Invalid name Равшан42
+line #3510, <class '__main__.NotEmailError'>, Incorrect email
+line #3514, <class 'ValueError'>, Age too large
+line #3523, <class 'ValueError'>, Age too small
+line #3525, <class '__main__.NotEmailError'>, Incorrect email
+line #3527, <class '__main__.NotEmailError'>, Incorrect email
+line #3531, <class '__main__.NotEmailError'>, Incorrect email
+line #3561, <class 'ValueError'>, Age too small
+line #3570, <class 'ValueError'>, Age too small
+line #3581, <class 'ValueError'>, Age too small
+line #3582, <class '__main__.NotNameError'>, Invalid name Михаил666
+line #3584, <class '__main__.NotNameError'>, Invalid name Мария666
 line #3595, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #3596, <class '__main__.NotEmailError'>, Incorrect email
+line #3602, <class '__main__.NotNameError'>, Invalid name Нагиев!!!!1
+line #3608, <class 'ValueError'>, Age too large
+line #3616, <class 'ValueError'>, Age too large
 line #3619, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #3623, <class 'ValueError'>, Age too small
+line #3641, <class '__main__.NotEmailError'>, Incorrect email
+line #3648, <class 'ValueError'>, Age too small
+line #3658, <class 'ValueError'>, Age too large
+line #3661, <class '__main__.NotEmailError'>, Incorrect email
+line #3667, <class '__main__.NotEmailError'>, Incorrect email
+line #3672, <class '__main__.NotNameError'>, Invalid name Геннадий666
+line #3683, <class '__main__.NotNameError'>, Invalid name Тролль666
+line #3685, <class 'ValueError'>, Age too small
+line #3702, <class 'ValueError'>, Age too large
+line #3705, <class '__main__.NotEmailError'>, Incorrect email
+line #3710, <class 'ValueError'>, Age too small
 line #3740, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #3757, <class 'ValueError'>, Age too small
+line #3758, <class 'ValueError'>, Age too small
+line #3765, <class 'ValueError'>, Age too small
+line #3783, <class '__main__.NotNameError'>, Invalid name Ли666
 line #3789, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #3801, <class 'ValueError'>, Age too large
+line #3803, <class 'ValueError'>, Age too large
+line #3820, <class '__main__.NotEmailError'>, Incorrect email
+line #3843, <class '__main__.NotNameError'>, Invalid name Бузова666
+line #3847, <class 'ValueError'>, Age too large
+line #3851, <class '__main__.NotEmailError'>, Incorrect email
+line #3854, <class '__main__.NotNameError'>, Invalid name Бузова666
+line #3856, <class '__main__.NotNameError'>, Invalid name Хенг666
+line #3865, <class '__main__.NotNameError'>, Invalid name Артём42
+line #3868, <class 'ValueError'>, Age too large
 line #3875, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
 line #3879, <class 'ValueError'>, not enough values to unpack (expected 3, got 2)
+line #3880, <class '__main__.NotNameError'>, Invalid name Геннадий42
 line #3890, <class 'ValueError'>, not enough values to unpack (expected 3, got 2)
+line #3910, <class '__main__.NotNameError'>, Invalid name Тролль42
+line #3911, <class 'ValueError'>, Age too small
+line #3917, <class '__main__.NotNameError'>, Invalid name Хенг666
+line #3937, <class '__main__.NotEmailError'>, Incorrect email
+line #3946, <class 'ValueError'>, Age too small
 line #3966, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #3969, <class '__main__.NotNameError'>, Invalid name Ли666
+line #3974, <class '__main__.NotEmailError'>, Incorrect email
+line #3979, <class '__main__.NotNameError'>, Invalid name Ли42
+line #3983, <class 'ValueError'>, Age too small
+line #3988, <class '__main__.NotNameError'>, Invalid name Пенг42
+line #3991, <class '__main__.NotNameError'>, Invalid name Гнойный666
+line #3997, <class '__main__.NotEmailError'>, Incorrect email
 line #4015, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
 line #4022, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #4027, <class 'ValueError'>, Age too large
+line #4032, <class '__main__.NotEmailError'>, Incorrect email
 line #4039, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #4040, <class 'ValueError'>, Age too large
+line #4082, <class 'ValueError'>, Age too small
+line #4091, <class '__main__.NotEmailError'>, Incorrect email
 line #4101, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
 line #4120, <class 'ValueError'>, not enough values to unpack (expected 3, got 2)
 line #4128, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #4140, <class '__main__.NotEmailError'>, Incorrect email
+line #4151, <class 'ValueError'>, Age too small
+line #4163, <class 'ValueError'>, Age too large
+line #4164, <class '__main__.NotEmailError'>, Incorrect email
+line #4167, <class '__main__.NotEmailError'>, Incorrect email
+line #4169, <class 'ValueError'>, Age too large
+line #4175, <class '__main__.NotNameError'>, Invalid name Сянцзян!!!!1
 line #4182, <class 'ValueError'>, not enough values to unpack (expected 3, got 2)
 line #4190, <class 'ValueError'>, not enough values to unpack (expected 3, got 2)
 line #4203, <class 'ValueError'>, not enough values to unpack (expected 3, got 2)
+line #4207, <class '__main__.NotEmailError'>, Incorrect email
+line #4208, <class '__main__.NotEmailError'>, Incorrect email
 line #4218, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #4223, <class '__main__.NotNameError'>, Invalid name Михаил666
+line #4230, <class '__main__.NotEmailError'>, Incorrect email
+line #4243, <class 'ValueError'>, Age too small
 line #4258, <class 'ValueError'>, not enough values to unpack (expected 3, got 2)
+line #4260, <class '__main__.NotNameError'>, Invalid name Дмитрий!!!!1
+line #4261, <class 'ValueError'>, Age too large
 line #4264, <class 'ValueError'>, not enough values to unpack (expected 3, got 2)
+line #4275, <class 'ValueError'>, Age too small
+line #4284, <class 'ValueError'>, Age too large
+line #4286, <class 'ValueError'>, Age too large
+line #4292, <class '__main__.NotEmailError'>, Incorrect email
+line #4296, <class 'ValueError'>, Age too small
+line #4301, <class '__main__.NotEmailError'>, Incorrect email
+line #4306, <class '__main__.NotEmailError'>, Incorrect email
+line #4311, <class '__main__.NotEmailError'>, Incorrect email
+line #4314, <class '__main__.NotEmailError'>, Incorrect email
+line #4320, <class '__main__.NotEmailError'>, Incorrect email
+line #4329, <class 'ValueError'>, Age too small
+line #4337, <class 'ValueError'>, Age too small
+line #4347, <class '__main__.NotEmailError'>, Incorrect email
 line #4348, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #4350, <class '__main__.NotNameError'>, Invalid name Пенг666
+line #4351, <class '__main__.NotNameError'>, Invalid name Равшан!!!!1
+line #4356, <class '__main__.NotEmailError'>, Incorrect email
+line #4357, <class 'ValueError'>, Age too small
+line #4368, <class '__main__.NotEmailError'>, Incorrect email
+line #4369, <class '__main__.NotEmailError'>, Incorrect email
 line #4392, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #4394, <class 'ValueError'>, Age too small
+line #4397, <class '__main__.NotNameError'>, Invalid name Джамшут42
+line #4428, <class 'ValueError'>, Age too large
+line #4432, <class '__main__.NotNameError'>, Invalid name Равшан42
+line #4444, <class 'ValueError'>, Age too small
+line #4445, <class 'ValueError'>, Age too large
+line #4451, <class 'ValueError'>, Age too large
+line #4456, <class '__main__.NotEmailError'>, Incorrect email
 line #4469, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #4471, <class 'ValueError'>, Age too small
+line #4480, <class 'ValueError'>, Age too large
+line #4498, <class '__main__.NotEmailError'>, Incorrect email
 line #4499, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #4506, <class '__main__.NotEmailError'>, Incorrect email
+line #4520, <class '__main__.NotNameError'>, Invalid name Сянцзян42
+line #4525, <class 'ValueError'>, Age too large
+line #4535, <class 'ValueError'>, Age too large
+line #4539, <class '__main__.NotEmailError'>, Incorrect email
+line #4551, <class '__main__.NotNameError'>, Invalid name Михаил42
+line #4553, <class '__main__.NotEmailError'>, Incorrect email
 line #4556, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #4575, <class 'ValueError'>, Age too large
+line #4581, <class '__main__.NotEmailError'>, Incorrect email
+line #4584, <class '__main__.NotNameError'>, Invalid name Артём42
+line #4598, <class '__main__.NotEmailError'>, Incorrect email
+line #4603, <class 'ValueError'>, Age too small
+line #4614, <class '__main__.NotNameError'>, Invalid name Нагиев!!!!1
+line #4622, <class '__main__.NotNameError'>, Invalid name Хенг!!!!1
 line #4625, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #4631, <class '__main__.NotNameError'>, Invalid name Анна666
+line #4639, <class '__main__.NotNameError'>, Invalid name Джигурда!!!!1
 line #4656, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #4666, <class 'ValueError'>, Age too small
+line #4671, <class '__main__.NotEmailError'>, Incorrect email
+line #4674, <class '__main__.NotEmailError'>, Incorrect email
+line #4676, <class 'ValueError'>, Age too small
+line #4685, <class 'ValueError'>, Age too small
+line #4689, <class '__main__.NotEmailError'>, Incorrect email
+line #4699, <class 'ValueError'>, Age too small
+line #4702, <class '__main__.NotNameError'>, Invalid name Пенг42
 line #4735, <class 'ValueError'>, not enough values to unpack (expected 3, got 2)
+line #4737, <class '__main__.NotEmailError'>, Incorrect email
+line #4738, <class '__main__.NotNameError'>, Invalid name Волочкова666
+line #4740, <class 'ValueError'>, Age too large
+line #4753, <class '__main__.NotEmailError'>, Incorrect email
+line #4759, <class '__main__.NotEmailError'>, Incorrect email
+line #4761, <class 'ValueError'>, Age too small
+line #4768, <class 'ValueError'>, Age too large
+line #4769, <class '__main__.NotEmailError'>, Incorrect email
+line #4780, <class '__main__.NotEmailError'>, Incorrect email
+line #4799, <class '__main__.NotEmailError'>, Incorrect email
+line #4804, <class '__main__.NotEmailError'>, Incorrect email
+line #4805, <class 'ValueError'>, Age too large
+line #4808, <class 'ValueError'>, Age too large
 line #4809, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #4817, <class '__main__.NotNameError'>, Invalid name Геннадий666
 line #4849, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #4852, <class '__main__.NotNameError'>, Invalid name Земфира42
+line #4856, <class 'ValueError'>, Age too small
+line #4866, <class '__main__.NotNameError'>, Invalid name Нагиев!!!!1
+line #4883, <class '__main__.NotNameError'>, Invalid name Сянцзян42
+line #4886, <class '__main__.NotEmailError'>, Incorrect email
+line #4923, <class 'ValueError'>, Age too small
+line #4934, <class 'ValueError'>, Age too small
+line #4939, <class 'ValueError'>, Age too large
+line #4942, <class 'ValueError'>, Age too large
+line #4943, <class '__main__.NotNameError'>, Invalid name Чехова42
+line #4951, <class 'ValueError'>, Age too small
 line #4953, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #4960, <class '__main__.NotNameError'>, Invalid name Анна666
+line #4968, <class '__main__.NotNameError'>, Invalid name Земфира666
+line #4972, <class '__main__.NotEmailError'>, Incorrect email
+line #4975, <class '__main__.NotNameError'>, Invalid name Владимир666
+line #4986, <class '__main__.NotEmailError'>, Incorrect email
+line #4996, <class 'ValueError'>, Age too small
+line #4999, <class 'ValueError'>, Age too small
+line #5000, <class 'ValueError'>, Age too large
+line #5004, <class 'ValueError'>, Age too small
+line #5011, <class '__main__.NotEmailError'>, Incorrect email
+line #5016, <class 'ValueError'>, Age too large
+line #5024, <class '__main__.NotNameError'>, Invalid name Нагиев42
+line #5026, <class 'ValueError'>, Age too large
+line #5049, <class 'ValueError'>, Age too large
+line #5065, <class '__main__.NotNameError'>, Invalid name Дмитрий!!!!1
+line #5070, <class 'ValueError'>, Age too large
+line #5071, <class '__main__.NotEmailError'>, Incorrect email
+line #5085, <class '__main__.NotEmailError'>, Incorrect email
+line #5089, <class 'ValueError'>, Age too large
 line #5100, <class 'ValueError'>, not enough values to unpack (expected 3, got 2)
+line #5104, <class '__main__.NotEmailError'>, Incorrect email
+line #5105, <class 'ValueError'>, Age too small
+line #5111, <class '__main__.NotEmailError'>, Incorrect email
+line #5123, <class 'ValueError'>, Age too small
+line #5125, <class 'ValueError'>, Age too small
+line #5130, <class '__main__.NotNameError'>, Invalid name Хенг!!!!1
+line #5135, <class '__main__.NotEmailError'>, Incorrect email
 line #5137, <class 'ValueError'>, not enough values to unpack (expected 3, got 2)
+line #5139, <class 'ValueError'>, Age too small
+line #5143, <class '__main__.NotEmailError'>, Incorrect email
+line #5154, <class 'ValueError'>, Age too large
+line #5155, <class 'ValueError'>, Age too small
+line #5159, <class 'ValueError'>, Age too large
+line #5165, <class 'ValueError'>, Age too large
+line #5173, <class '__main__.NotEmailError'>, Incorrect email
+line #5179, <class '__main__.NotEmailError'>, Incorrect email
+line #5196, <class '__main__.NotEmailError'>, Incorrect email
 line #5219, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #5220, <class '__main__.NotNameError'>, Invalid name Нагиев666
+line #5224, <class '__main__.NotEmailError'>, Incorrect email
+line #5234, <class '__main__.NotNameError'>, Invalid name Джигурда42
+line #5237, <class '__main__.NotNameError'>, Invalid name Ольга666
+line #5247, <class '__main__.NotEmailError'>, Incorrect email
+line #5272, <class '__main__.NotNameError'>, Invalid name Тролль42
+line #5282, <class '__main__.NotNameError'>, Invalid name Дмитрий42
+line #5290, <class 'ValueError'>, Age too large
+line #5292, <class '__main__.NotEmailError'>, Incorrect email
+line #5293, <class 'ValueError'>, Age too large
+line #5300, <class '__main__.NotNameError'>, Invalid name Джамшут666
+line #5320, <class '__main__.NotEmailError'>, Incorrect email
 line #5351, <class 'ValueError'>, not enough values to unpack (expected 3, got 2)
+line #5353, <class '__main__.NotEmailError'>, Incorrect email
+line #5360, <class '__main__.NotEmailError'>, Incorrect email
+line #5379, <class 'ValueError'>, Age too large
+line #5385, <class '__main__.NotNameError'>, Invalid name Гнойный666
+line #5417, <class '__main__.NotEmailError'>, Incorrect email
+line #5428, <class 'ValueError'>, Age too small
 line #5436, <class 'ValueError'>, not enough values to unpack (expected 3, got 2)
+line #5438, <class 'ValueError'>, Age too small
+line #5443, <class '__main__.NotEmailError'>, Incorrect email
 line #5453, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #5464, <class '__main__.NotNameError'>, Invalid name Михаил666
+line #5471, <class '__main__.NotEmailError'>, Incorrect email
+line #5473, <class '__main__.NotEmailError'>, Incorrect email
+line #5479, <class '__main__.NotEmailError'>, Incorrect email
 line #5482, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #5494, <class '__main__.NotEmailError'>, Incorrect email
+line #5514, <class '__main__.NotNameError'>, Invalid name Тролль!!!!1
 line #5518, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #5520, <class 'ValueError'>, Age too small
+line #5528, <class '__main__.NotNameError'>, Invalid name Муммий42
+line #5530, <class 'ValueError'>, Age too small
+line #5539, <class '__main__.NotNameError'>, Invalid name Ван666
+line #5546, <class '__main__.NotEmailError'>, Incorrect email
 line #5551, <class 'ValueError'>, not enough values to unpack (expected 3, got 2)
+line #5565, <class '__main__.NotEmailError'>, Incorrect email
 line #5571, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #5573, <class '__main__.NotNameError'>, Invalid name Чехова42
 line #5582, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #5583, <class 'ValueError'>, Age too small
+line #5596, <class 'ValueError'>, Age too small
+line #5598, <class '__main__.NotEmailError'>, Incorrect email
+line #5599, <class 'ValueError'>, Age too small
+line #5607, <class '__main__.NotNameError'>, Invalid name Артём!!!!1
+line #5611, <class 'ValueError'>, Age too large
+line #5620, <class 'ValueError'>, Age too small
+line #5632, <class 'ValueError'>, Age too small
+line #5635, <class '__main__.NotEmailError'>, Incorrect email
 line #5644, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #5654, <class 'ValueError'>, Age too small
+line #5658, <class '__main__.NotNameError'>, Invalid name Муммий!!!!1
+line #5660, <class '__main__.NotEmailError'>, Incorrect email
+line #5661, <class '__main__.NotEmailError'>, Incorrect email
+line #5668, <class 'ValueError'>, Age too small
+line #5670, <class '__main__.NotEmailError'>, Incorrect email
+line #5677, <class '__main__.NotNameError'>, Invalid name Ли42
+line #5699, <class '__main__.NotNameError'>, Invalid name Джамшут42
+line #5701, <class '__main__.NotEmailError'>, Incorrect email
+line #5704, <class '__main__.NotNameError'>, Invalid name Равшан42
+line #5710, <class 'ValueError'>, Age too large
 line #5714, <class 'ValueError'>, not enough values to unpack (expected 3, got 2)
+line #5734, <class 'ValueError'>, Age too large
 line #5735, <class 'ValueError'>, not enough values to unpack (expected 3, got 2)
+line #5746, <class 'ValueError'>, Age too large
 line #5753, <class 'ValueError'>, not enough values to unpack (expected 3, got 2)
 line #5762, <class 'ValueError'>, not enough values to unpack (expected 3, got 2)
 line #5764, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #5777, <class '__main__.NotEmailError'>, Incorrect email
+line #5781, <class '__main__.NotEmailError'>, Incorrect email
+line #5793, <class '__main__.NotNameError'>, Invalid name Ли666
+line #5803, <class '__main__.NotNameError'>, Invalid name Степан666
+line #5807, <class 'ValueError'>, Age too small
+line #5811, <class 'ValueError'>, Age too large
+line #5820, <class 'ValueError'>, Age too large
+line #5829, <class 'ValueError'>, Age too large
+line #5831, <class '__main__.NotNameError'>, Invalid name Яочуан666
+line #5833, <class '__main__.NotNameError'>, Invalid name Чонгкун!!!!1
+line #5841, <class 'ValueError'>, Age too large
 line #5858, <class 'ValueError'>, not enough values to unpack (expected 3, got 2)
 line #5868, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #5872, <class 'ValueError'>, Age too small
+line #5873, <class 'ValueError'>, Age too small
+line #5882, <class '__main__.NotNameError'>, Invalid name Волочкова!!!!1
+line #5884, <class '__main__.NotEmailError'>, Incorrect email
+line #5886, <class 'ValueError'>, Age too small
+line #5887, <class '__main__.NotEmailError'>, Incorrect email
+line #5894, <class '__main__.NotNameError'>, Invalid name Пенг42
 line #5900, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
 line #5901, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #5908, <class '__main__.NotEmailError'>, Incorrect email
+line #5910, <class '__main__.NotEmailError'>, Incorrect email
+line #5911, <class '__main__.NotNameError'>, Invalid name Волочкова42
 line #5916, <class 'ValueError'>, not enough values to unpack (expected 3, got 2)
+line #5918, <class '__main__.NotNameError'>, Invalid name Сянцзян42
+line #5923, <class '__main__.NotNameError'>, Invalid name Муммий42
 line #5945, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #5950, <class '__main__.NotEmailError'>, Incorrect email
+line #5951, <class 'ValueError'>, Age too large
+line #5977, <class 'ValueError'>, Age too large
+line #5993, <class '__main__.NotNameError'>, Invalid name Мария!!!!1
+line #5996, <class 'ValueError'>, Age too small
+line #6001, <class 'ValueError'>, Age too small
+line #6002, <class 'ValueError'>, Age too large
+line #6005, <class '__main__.NotNameError'>, Invalid name Ван42
 line #6010, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
 line #6023, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #6024, <class '__main__.NotEmailError'>, Incorrect email
+line #6025, <class '__main__.NotNameError'>, Invalid name Дмитрий!!!!1
+line #6054, <class 'ValueError'>, Age too large
+line #6070, <class '__main__.NotEmailError'>, Incorrect email
+line #6083, <class 'ValueError'>, Age too small
+line #6087, <class '__main__.NotEmailError'>, Incorrect email
+line #6098, <class '__main__.NotNameError'>, Invalid name Нагиев42
+line #6111, <class 'ValueError'>, Age too small
+line #6115, <class '__main__.NotNameError'>, Invalid name Ли42
+line #6116, <class 'ValueError'>, Age too small
+line #6131, <class '__main__.NotEmailError'>, Incorrect email
+line #6135, <class 'ValueError'>, Age too small
+line #6139, <class 'ValueError'>, Age too large
+line #6141, <class 'ValueError'>, Age too large
 line #6149, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
 line #6153, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
 line #6158, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #6164, <class '__main__.NotEmailError'>, Incorrect email
+line #6180, <class '__main__.NotEmailError'>, Incorrect email
+line #6181, <class 'ValueError'>, Age too large
+line #6183, <class '__main__.NotNameError'>, Invalid name Бузова666
+line #6185, <class 'ValueError'>, Age too small
+line #6190, <class 'ValueError'>, Age too small
+line #6208, <class 'ValueError'>, Age too large
 line #6214, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #6218, <class 'ValueError'>, Age too large
 line #6227, <class 'ValueError'>, not enough values to unpack (expected 3, got 2)
 line #6229, <class 'ValueError'>, not enough values to unpack (expected 3, got 2)
+line #6241, <class '__main__.NotNameError'>, Invalid name Муммий42
+line #6243, <class 'ValueError'>, Age too large
 line #6251, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #6273, <class 'ValueError'>, Age too small
+line #6282, <class '__main__.NotEmailError'>, Incorrect email
 line #6291, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #6318, <class '__main__.NotNameError'>, Invalid name Ярослав666
+line #6326, <class '__main__.NotEmailError'>, Incorrect email
+line #6327, <class '__main__.NotEmailError'>, Incorrect email
+line #6337, <class '__main__.NotNameError'>, Invalid name Мария666
+line #6339, <class '__main__.NotEmailError'>, Incorrect email
 line #6340, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #6353, <class '__main__.NotEmailError'>, Incorrect email
+line #6359, <class '__main__.NotNameError'>, Invalid name Муммий!!!!1
+line #6367, <class '__main__.NotEmailError'>, Incorrect email
 line #6378, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #6381, <class '__main__.NotEmailError'>, Incorrect email
+line #6392, <class 'ValueError'>, Age too large
 line #6395, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #6412, <class 'ValueError'>, Age too large
+line #6418, <class '__main__.NotEmailError'>, Incorrect email
+line #6419, <class '__main__.NotNameError'>, Invalid name Чонгкун42
+line #6446, <class 'ValueError'>, Age too small
+line #6447, <class '__main__.NotNameError'>, Invalid name Степан!!!!1
+line #6470, <class '__main__.NotEmailError'>, Incorrect email
+line #6494, <class '__main__.NotNameError'>, Invalid name Пенг!!!!1
+line #6512, <class '__main__.NotEmailError'>, Incorrect email
+line #6527, <class 'ValueError'>, Age too large
+line #6548, <class '__main__.NotNameError'>, Invalid name Владимир42
 line #6550, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #6552, <class 'ValueError'>, Age too small
+line #6558, <class 'ValueError'>, Age too large
+line #6562, <class '__main__.NotEmailError'>, Incorrect email
+line #6594, <class '__main__.NotNameError'>, Invalid name Дмитрий666
+line #6596, <class '__main__.NotNameError'>, Invalid name Земфира!!!!1
+line #6598, <class '__main__.NotNameError'>, Invalid name Ольга!!!!1
+line #6602, <class 'ValueError'>, Age too small
 line #6604, <class 'ValueError'>, not enough values to unpack (expected 3, got 2)
+line #6618, <class 'ValueError'>, Age too small
 line #6620, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #6622, <class '__main__.NotEmailError'>, Incorrect email
 line #6628, <class 'ValueError'>, not enough values to unpack (expected 3, got 2)
+line #6635, <class 'ValueError'>, Age too small
+line #6646, <class '__main__.NotNameError'>, Invalid name Яочуан42
+line #6647, <class '__main__.NotNameError'>, Invalid name Ольга666
+line #6652, <class 'ValueError'>, Age too large
+line #6663, <class '__main__.NotEmailError'>, Incorrect email
+line #6674, <class '__main__.NotEmailError'>, Incorrect email
+line #6677, <class '__main__.NotNameError'>, Invalid name Ван!!!!1
+line #6679, <class '__main__.NotEmailError'>, Incorrect email
+line #6680, <class 'ValueError'>, Age too small
 line #6686, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #6688, <class '__main__.NotNameError'>, Invalid name Сянцзян666
+line #6689, <class '__main__.NotEmailError'>, Incorrect email
+line #6691, <class '__main__.NotNameError'>, Invalid name Нагиев666
+line #6693, <class 'ValueError'>, Age too large
 line #6694, <class 'ValueError'>, not enough values to unpack (expected 3, got 2)
+line #6709, <class 'ValueError'>, Age too large
+line #6710, <class '__main__.NotEmailError'>, Incorrect email
+line #6718, <class '__main__.NotNameError'>, Invalid name Земфира666
 line #6719, <class 'ValueError'>, not enough values to unpack (expected 3, got 2)
+line #6722, <class 'ValueError'>, Age too small
 line #6723, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #6726, <class '__main__.NotNameError'>, Invalid name Анна42
 line #6729, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #6735, <class '__main__.NotNameError'>, Invalid name Геннадий666
+line #6736, <class '__main__.NotEmailError'>, Incorrect email
+line #6745, <class '__main__.NotNameError'>, Invalid name Степан!!!!1
+line #6754, <class 'ValueError'>, Age too large
+line #6757, <class '__main__.NotNameError'>, Invalid name Пенг666
+line #6758, <class '__main__.NotNameError'>, Invalid name Ли!!!!1
+line #6759, <class '__main__.NotNameError'>, Invalid name Михаил666
+line #6760, <class '__main__.NotNameError'>, Invalid name Бузова42
+line #6765, <class '__main__.NotEmailError'>, Incorrect email
+line #6766, <class '__main__.NotNameError'>, Invalid name Яочуан666
 line #6776, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
 line #6782, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
 line #6783, <class 'ValueError'>, not enough values to unpack (expected 3, got 2)
+line #6802, <class 'ValueError'>, Age too small
+line #6806, <class 'ValueError'>, Age too small
+line #6823, <class 'ValueError'>, Age too small
 line #6825, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #6830, <class '__main__.NotEmailError'>, Incorrect email
+line #6846, <class '__main__.NotNameError'>, Invalid name Муммий!!!!1
+line #6847, <class 'ValueError'>, Age too small
+line #6857, <class '__main__.NotNameError'>, Invalid name Пенг666
+line #6873, <class 'ValueError'>, Age too large
+line #6881, <class '__main__.NotNameError'>, Invalid name Тролль!!!!1
+line #6882, <class '__main__.NotNameError'>, Invalid name Мария!!!!1
+line #6899, <class 'ValueError'>, Age too small
+line #6906, <class '__main__.NotEmailError'>, Incorrect email
+line #6909, <class 'ValueError'>, Age too small
+line #6911, <class '__main__.NotEmailError'>, Incorrect email
 line #6915, <class 'ValueError'>, not enough values to unpack (expected 3, got 2)
+line #6929, <class 'ValueError'>, Age too large
+line #6940, <class 'ValueError'>, Age too small
+line #6945, <class '__main__.NotEmailError'>, Incorrect email
+line #6965, <class 'ValueError'>, Age too small
+line #6974, <class 'ValueError'>, Age too large
+line #6981, <class 'ValueError'>, Age too large
+line #7005, <class '__main__.NotNameError'>, Invalid name Ольга42
+line #7008, <class '__main__.NotEmailError'>, Incorrect email
+line #7016, <class '__main__.NotEmailError'>, Incorrect email
+line #7025, <class '__main__.NotNameError'>, Invalid name Бузова42
+line #7036, <class '__main__.NotEmailError'>, Incorrect email
+line #7040, <class '__main__.NotEmailError'>, Incorrect email
+line #7059, <class 'ValueError'>, Age too small
+line #7073, <class '__main__.NotNameError'>, Invalid name Сянцзян666
 line #7080, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #7083, <class '__main__.NotEmailError'>, Incorrect email
+line #7091, <class 'ValueError'>, Age too small
+line #7092, <class '__main__.NotNameError'>, Invalid name Яочуан42
+line #7114, <class '__main__.NotEmailError'>, Incorrect email
+line #7130, <class '__main__.NotEmailError'>, Incorrect email
+line #7135, <class '__main__.NotEmailError'>, Incorrect email
+line #7148, <class 'ValueError'>, Age too small
+line #7162, <class '__main__.NotEmailError'>, Incorrect email
+line #7170, <class '__main__.NotEmailError'>, Incorrect email
 line #7175, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #7198, <class 'ValueError'>, Age too small
 line #7201, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #7215, <class '__main__.NotNameError'>, Invalid name Ван42
+line #7218, <class 'ValueError'>, Age too large
 line #7223, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #7224, <class '__main__.NotNameError'>, Invalid name Михаил666
+line #7232, <class '__main__.NotEmailError'>, Incorrect email
+line #7255, <class '__main__.NotEmailError'>, Incorrect email
+line #7265, <class '__main__.NotNameError'>, Invalid name Геннадий!!!!1
+line #7270, <class '__main__.NotNameError'>, Invalid name Артём!!!!1
+line #7273, <class 'ValueError'>, Age too large
 line #7294, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #7307, <class 'ValueError'>, Age too large
+line #7308, <class 'ValueError'>, Age too large
+line #7319, <class 'ValueError'>, Age too small
+line #7324, <class '__main__.NotEmailError'>, Incorrect email
 line #7329, <class 'ValueError'>, not enough values to unpack (expected 3, got 2)
+line #7331, <class '__main__.NotEmailError'>, Incorrect email
+line #7340, <class '__main__.NotNameError'>, Invalid name Геннадий!!!!1
+line #7345, <class 'ValueError'>, Age too large
+line #7346, <class 'ValueError'>, Age too large
+line #7349, <class '__main__.NotNameError'>, Invalid name Яочуан666
+line #7354, <class '__main__.NotEmailError'>, Incorrect email
+line #7374, <class 'ValueError'>, Age too large
 line #7377, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
 line #7390, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #7400, <class '__main__.NotEmailError'>, Incorrect email
+line #7416, <class 'ValueError'>, Age too small
+line #7421, <class '__main__.NotEmailError'>, Incorrect email
+line #7425, <class 'ValueError'>, Age too small
+line #7437, <class '__main__.NotEmailError'>, Incorrect email
+line #7468, <class '__main__.NotEmailError'>, Incorrect email
 line #7471, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
 line #7480, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #7482, <class 'ValueError'>, Age too large
+line #7484, <class 'ValueError'>, Age too large
+line #7491, <class '__main__.NotEmailError'>, Incorrect email
+line #7497, <class 'ValueError'>, Age too small
+line #7499, <class '__main__.NotNameError'>, Invalid name Джигурда42
+line #7501, <class 'ValueError'>, Age too small
+line #7503, <class '__main__.NotEmailError'>, Incorrect email
+line #7511, <class '__main__.NotNameError'>, Invalid name Владимир42
+line #7515, <class '__main__.NotEmailError'>, Incorrect email
+line #7533, <class '__main__.NotEmailError'>, Incorrect email
+line #7542, <class '__main__.NotEmailError'>, Incorrect email
+line #7547, <class '__main__.NotNameError'>, Invalid name Чонгкун!!!!1
 line #7557, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #7567, <class '__main__.NotEmailError'>, Incorrect email
+line #7601, <class '__main__.NotNameError'>, Invalid name Джигурда42
+line #7611, <class '__main__.NotEmailError'>, Incorrect email
+line #7615, <class 'ValueError'>, Age too small
+line #7618, <class 'ValueError'>, Age too small
+line #7620, <class 'ValueError'>, Age too small
+line #7633, <class '__main__.NotEmailError'>, Incorrect email
+line #7640, <class '__main__.NotNameError'>, Invalid name Муммий!!!!1
 line #7649, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #7650, <class '__main__.NotEmailError'>, Incorrect email
+line #7661, <class 'ValueError'>, Age too small
+line #7663, <class 'ValueError'>, Age too large
+line #7664, <class '__main__.NotEmailError'>, Incorrect email
+line #7665, <class 'ValueError'>, Age too large
+line #7669, <class 'ValueError'>, Age too large
 line #7670, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #7677, <class 'ValueError'>, Age too small
 line #7705, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
 line #7706, <class 'ValueError'>, not enough values to unpack (expected 3, got 2)
+line #7708, <class '__main__.NotEmailError'>, Incorrect email
+line #7710, <class '__main__.NotNameError'>, Invalid name Гнойный42
+line #7722, <class '__main__.NotNameError'>, Invalid name Ольга!!!!1
+line #7736, <class 'ValueError'>, Age too small
+line #7738, <class 'ValueError'>, Age too large
+line #7742, <class '__main__.NotEmailError'>, Incorrect email
 line #7749, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #7766, <class 'ValueError'>, Age too large
 line #7773, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #7777, <class 'ValueError'>, Age too small
+line #7787, <class 'ValueError'>, Age too large
+line #7791, <class 'ValueError'>, Age too small
+line #7796, <class '__main__.NotEmailError'>, Incorrect email
 line #7815, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #7822, <class '__main__.NotEmailError'>, Incorrect email
+line #7823, <class '__main__.NotEmailError'>, Incorrect email
+line #7825, <class 'ValueError'>, Age too small
+line #7833, <class '__main__.NotNameError'>, Invalid name Земфира666
+line #7836, <class 'ValueError'>, Age too small
+line #7837, <class '__main__.NotNameError'>, Invalid name Степан42
 line #7868, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #7872, <class 'ValueError'>, Age too large
 line #7885, <class 'ValueError'>, not enough values to unpack (expected 3, got 2)
+line #7891, <class '__main__.NotNameError'>, Invalid name Дмитрий!!!!1
+line #7909, <class '__main__.NotNameError'>, Invalid name Равшан42
+line #7910, <class 'ValueError'>, Age too small
+line #7912, <class 'ValueError'>, Age too small
+line #7933, <class 'ValueError'>, Age too large
+line #7934, <class '__main__.NotEmailError'>, Incorrect email
+line #7953, <class 'ValueError'>, Age too large
+line #7957, <class '__main__.NotEmailError'>, Incorrect email
+line #7967, <class '__main__.NotNameError'>, Invalid name Джигурда!!!!1
+line #7981, <class 'ValueError'>, Age too large
+line #7987, <class '__main__.NotNameError'>, Invalid name Муммий42
 line #7995, <class 'ValueError'>, not enough values to unpack (expected 3, got 2)
 line #7996, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #8006, <class 'ValueError'>, Age too large
+line #8007, <class 'ValueError'>, Age too small
+line #8012, <class '__main__.NotEmailError'>, Incorrect email
+line #8015, <class '__main__.NotNameError'>, Invalid name Джигурда42
+line #8023, <class '__main__.NotEmailError'>, Incorrect email
 line #8036, <class 'ValueError'>, not enough values to unpack (expected 3, got 2)
+line #8049, <class '__main__.NotEmailError'>, Incorrect email
 line #8054, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #8060, <class '__main__.NotNameError'>, Invalid name Гнойный42
+line #8062, <class '__main__.NotNameError'>, Invalid name Тролль!!!!1
+line #8064, <class '__main__.NotNameError'>, Invalid name Нагиев42
+line #8072, <class '__main__.NotNameError'>, Invalid name Ван42
+line #8074, <class '__main__.NotNameError'>, Invalid name Владимир42
+line #8079, <class '__main__.NotEmailError'>, Incorrect email
+line #8081, <class 'ValueError'>, Age too small
+line #8087, <class '__main__.NotEmailError'>, Incorrect email
+line #8088, <class '__main__.NotNameError'>, Invalid name Хенг42
+line #8093, <class 'ValueError'>, Age too large
+line #8095, <class 'ValueError'>, Age too large
+line #8096, <class 'ValueError'>, Age too small
+line #8103, <class 'ValueError'>, Age too large
+line #8109, <class '__main__.NotEmailError'>, Incorrect email
+line #8122, <class 'ValueError'>, Age too small
+line #8132, <class 'ValueError'>, Age too small
+line #8138, <class '__main__.NotEmailError'>, Incorrect email
 line #8143, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #8161, <class 'ValueError'>, Age too large
+line #8163, <class '__main__.NotEmailError'>, Incorrect email
+line #8180, <class 'ValueError'>, Age too small
 line #8190, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #8194, <class '__main__.NotNameError'>, Invalid name Владимир!!!!1
 line #8195, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #8201, <class '__main__.NotNameError'>, Invalid name Ярослав!!!!1
+line #8225, <class 'ValueError'>, Age too small
+line #8231, <class '__main__.NotNameError'>, Invalid name Чехова42
+line #8235, <class '__main__.NotEmailError'>, Incorrect email
+line #8237, <class '__main__.NotEmailError'>, Incorrect email
+line #8241, <class '__main__.NotNameError'>, Invalid name Хенг666
+line #8246, <class '__main__.NotNameError'>, Invalid name Ярослав666
+line #8247, <class '__main__.NotEmailError'>, Incorrect email
+line #8249, <class '__main__.NotNameError'>, Invalid name Ольга666
+line #8251, <class '__main__.NotEmailError'>, Incorrect email
+line #8266, <class 'ValueError'>, Age too small
+line #8284, <class '__main__.NotNameError'>, Invalid name Степан666
+line #8307, <class '__main__.NotNameError'>, Invalid name Геннадий666
+line #8313, <class 'ValueError'>, Age too small
+line #8325, <class '__main__.NotNameError'>, Invalid name Владимир666
+line #8327, <class '__main__.NotNameError'>, Invalid name Владимир!!!!1
+line #8335, <class 'ValueError'>, Age too small
+line #8339, <class '__main__.NotEmailError'>, Incorrect email
+line #8340, <class 'ValueError'>, Age too large
+line #8347, <class 'ValueError'>, Age too small
+line #8351, <class '__main__.NotNameError'>, Invalid name Муммий666
+line #8361, <class 'ValueError'>, Age too small
+line #8383, <class '__main__.NotEmailError'>, Incorrect email
 line #8386, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #8387, <class '__main__.NotEmailError'>, Incorrect email
 line #8391, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
 line #8405, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #8408, <class '__main__.NotNameError'>, Invalid name Ван42
+line #8409, <class 'ValueError'>, Age too large
+line #8413, <class 'ValueError'>, Age too large
+line #8430, <class 'ValueError'>, Age too small
+line #8444, <class '__main__.NotNameError'>, Invalid name Ли!!!!1
+line #8453, <class '__main__.NotEmailError'>, Incorrect email
+line #8492, <class '__main__.NotEmailError'>, Incorrect email
 line #8516, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #8518, <class '__main__.NotEmailError'>, Incorrect email
+line #8522, <class '__main__.NotNameError'>, Invalid name Равшан!!!!1
 line #8524, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #8525, <class '__main__.NotEmailError'>, Incorrect email
+line #8526, <class '__main__.NotNameError'>, Invalid name Нагиев666
+line #8532, <class '__main__.NotEmailError'>, Incorrect email
+line #8534, <class '__main__.NotNameError'>, Invalid name Хенг!!!!1
+line #8552, <class '__main__.NotNameError'>, Invalid name Нагиев666
+line #8555, <class '__main__.NotEmailError'>, Incorrect email
+line #8558, <class '__main__.NotEmailError'>, Incorrect email
+line #8566, <class 'ValueError'>, Age too large
+line #8577, <class '__main__.NotNameError'>, Invalid name Яочуан666
+line #8579, <class '__main__.NotNameError'>, Invalid name Ольга42
+line #8586, <class 'ValueError'>, Age too small
+line #8592, <class '__main__.NotNameError'>, Invalid name Сянцзян!!!!1
+line #8604, <class '__main__.NotEmailError'>, Incorrect email
+line #8614, <class '__main__.NotNameError'>, Invalid name Яочуан!!!!1
+line #8626, <class '__main__.NotNameError'>, Invalid name Артём!!!!1
+line #8631, <class '__main__.NotEmailError'>, Incorrect email
+line #8636, <class 'ValueError'>, Age too large
+line #8656, <class 'ValueError'>, Age too small
+line #8665, <class 'ValueError'>, Age too small
+line #8692, <class '__main__.NotNameError'>, Invalid name Ольга666
+line #8695, <class 'ValueError'>, Age too small
 line #8699, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #8707, <class 'ValueError'>, Age too small
 line #8710, <class 'ValueError'>, not enough values to unpack (expected 3, got 2)
+line #8711, <class 'ValueError'>, Age too large
 line #8714, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #8720, <class '__main__.NotEmailError'>, Incorrect email
+line #8722, <class '__main__.NotNameError'>, Invalid name Мария666
+line #8726, <class '__main__.NotEmailError'>, Incorrect email
+line #8730, <class 'ValueError'>, Age too large
+line #8738, <class 'ValueError'>, Age too small
 line #8742, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #8745, <class 'ValueError'>, Age too large
+line #8750, <class 'ValueError'>, Age too small
 line #8752, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #8754, <class 'ValueError'>, Age too small
+line #8755, <class 'ValueError'>, Age too small
+line #8765, <class 'ValueError'>, Age too small
 line #8782, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #8786, <class '__main__.NotNameError'>, Invalid name Владимир666
+line #8788, <class '__main__.NotNameError'>, Invalid name Джамшут42
+line #8798, <class '__main__.NotEmailError'>, Incorrect email
+line #8799, <class '__main__.NotEmailError'>, Incorrect email
+line #8805, <class '__main__.NotEmailError'>, Incorrect email
+line #8824, <class 'ValueError'>, Age too large
+line #8828, <class 'ValueError'>, Age too small
+line #8851, <class 'ValueError'>, Age too small
+line #8868, <class 'ValueError'>, Age too small
 line #8869, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #8870, <class 'ValueError'>, Age too small
+line #8876, <class '__main__.NotEmailError'>, Incorrect email
+line #8880, <class '__main__.NotNameError'>, Invalid name Чехова42
+line #8887, <class '__main__.NotEmailError'>, Incorrect email
+line #8895, <class 'ValueError'>, Age too small
+line #8906, <class 'ValueError'>, Age too small
+line #8913, <class '__main__.NotEmailError'>, Incorrect email
+line #8916, <class 'ValueError'>, Age too small
+line #8931, <class '__main__.NotEmailError'>, Incorrect email
+line #8941, <class 'ValueError'>, Age too large
+line #8960, <class 'ValueError'>, Age too large
+line #8966, <class '__main__.NotEmailError'>, Incorrect email
+line #8978, <class 'ValueError'>, Age too small
+line #8988, <class '__main__.NotEmailError'>, Incorrect email
+line #9009, <class '__main__.NotEmailError'>, Incorrect email
+line #9012, <class 'ValueError'>, Age too large
+line #9014, <class 'ValueError'>, Age too large
+line #9016, <class '__main__.NotEmailError'>, Incorrect email
+line #9026, <class 'ValueError'>, Age too small
 line #9030, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #9032, <class '__main__.NotEmailError'>, Incorrect email
+line #9034, <class 'ValueError'>, Age too large
+line #9042, <class '__main__.NotEmailError'>, Incorrect email
+line #9045, <class 'ValueError'>, Age too large
+line #9048, <class '__main__.NotEmailError'>, Incorrect email
+line #9054, <class '__main__.NotEmailError'>, Incorrect email
+line #9055, <class 'ValueError'>, Age too large
 line #9056, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #9066, <class 'ValueError'>, Age too large
 line #9079, <class 'ValueError'>, not enough values to unpack (expected 3, got 2)
+line #9085, <class 'ValueError'>, Age too small
+line #9098, <class 'ValueError'>, Age too small
+line #9104, <class 'ValueError'>, Age too small
+line #9108, <class 'ValueError'>, Age too large
+line #9109, <class 'ValueError'>, Age too small
+line #9117, <class 'ValueError'>, Age too small
+line #9123, <class '__main__.NotEmailError'>, Incorrect email
 line #9139, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #9144, <class '__main__.NotEmailError'>, Incorrect email
+line #9149, <class 'ValueError'>, Age too small
+line #9152, <class '__main__.NotNameError'>, Invalid name Земфира42
+line #9164, <class '__main__.NotEmailError'>, Incorrect email
+line #9170, <class 'ValueError'>, Age too large
+line #9171, <class 'ValueError'>, Age too large
+line #9174, <class '__main__.NotEmailError'>, Incorrect email
+line #9189, <class '__main__.NotEmailError'>, Incorrect email
+line #9192, <class '__main__.NotEmailError'>, Incorrect email
+line #9196, <class '__main__.NotEmailError'>, Incorrect email
+line #9200, <class '__main__.NotEmailError'>, Incorrect email
 line #9204, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #9205, <class 'ValueError'>, Age too small
+line #9206, <class '__main__.NotNameError'>, Invalid name Земфира666
+line #9217, <class '__main__.NotEmailError'>, Incorrect email
+line #9230, <class '__main__.NotEmailError'>, Incorrect email
+line #9234, <class '__main__.NotEmailError'>, Incorrect email
+line #9235, <class 'ValueError'>, Age too large
 line #9245, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #9250, <class '__main__.NotEmailError'>, Incorrect email
+line #9261, <class 'ValueError'>, Age too small
+line #9273, <class '__main__.NotEmailError'>, Incorrect email
+line #9274, <class 'ValueError'>, Age too small
+line #9277, <class 'ValueError'>, Age too small
+line #9296, <class 'ValueError'>, Age too small
+line #9299, <class '__main__.NotEmailError'>, Incorrect email
 line #9303, <class 'ValueError'>, not enough values to unpack (expected 3, got 2)
+line #9313, <class 'ValueError'>, Age too small
+line #9316, <class 'ValueError'>, Age too large
+line #9328, <class '__main__.NotEmailError'>, Incorrect email
 line #9331, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #9345, <class 'ValueError'>, Age too small
+line #9349, <class '__main__.NotEmailError'>, Incorrect email
+line #9383, <class 'ValueError'>, Age too small
+line #9388, <class 'ValueError'>, Age too small
+line #9403, <class 'ValueError'>, Age too large
+line #9404, <class '__main__.NotEmailError'>, Incorrect email
 line #9406, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #9408, <class 'ValueError'>, Age too small
+line #9421, <class '__main__.NotEmailError'>, Incorrect email
+line #9425, <class '__main__.NotNameError'>, Invalid name Анна42
+line #9426, <class 'ValueError'>, Age too small
+line #9454, <class 'ValueError'>, Age too large
+line #9456, <class '__main__.NotNameError'>, Invalid name Муммий!!!!1
+line #9461, <class 'ValueError'>, Age too large
+line #9470, <class 'ValueError'>, Age too small
 line #9474, <class 'ValueError'>, not enough values to unpack (expected 3, got 2)
+line #9477, <class 'ValueError'>, Age too large
 line #9485, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #9487, <class '__main__.NotEmailError'>, Incorrect email
+line #9499, <class '__main__.NotEmailError'>, Incorrect email
+line #9519, <class 'ValueError'>, Age too small
+line #9525, <class '__main__.NotNameError'>, Invalid name Джигурда!!!!1
+line #9537, <class 'ValueError'>, Age too large
+line #9538, <class '__main__.NotEmailError'>, Incorrect email
 line #9542, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #9552, <class '__main__.NotNameError'>, Invalid name Михаил666
+line #9555, <class 'ValueError'>, Age too large
+line #9556, <class '__main__.NotEmailError'>, Incorrect email
+line #9571, <class 'ValueError'>, Age too small
+line #9578, <class '__main__.NotNameError'>, Invalid name Волочкова666
+line #9584, <class '__main__.NotEmailError'>, Incorrect email
+line #9589, <class '__main__.NotNameError'>, Invalid name Ван42
 line #9593, <class 'ValueError'>, not enough values to unpack (expected 3, got 2)
+line #9605, <class 'ValueError'>, Age too large
+line #9606, <class '__main__.NotNameError'>, Invalid name Анна666
+line #9610, <class '__main__.NotEmailError'>, Incorrect email
+line #9611, <class 'ValueError'>, Age too large
+line #9618, <class 'ValueError'>, Age too small
+line #9623, <class 'ValueError'>, Age too large
+line #9626, <class 'ValueError'>, Age too small
 line #9643, <class 'ValueError'>, not enough values to unpack (expected 3, got 2)
+line #9658, <class '__main__.NotEmailError'>, Incorrect email
+line #9660, <class 'ValueError'>, Age too small
+line #9666, <class '__main__.NotEmailError'>, Incorrect email
 line #9681, <class 'ValueError'>, not enough values to unpack (expected 3, got 2)
+line #9683, <class 'ValueError'>, Age too small
+line #9688, <class 'ValueError'>, Age too large
+line #9695, <class '__main__.NotEmailError'>, Incorrect email
+line #9710, <class 'ValueError'>, Age too small
 line #9714, <class 'ValueError'>, not enough values to unpack (expected 3, got 2)
+line #9720, <class 'ValueError'>, Age too large
+line #9736, <class '__main__.NotEmailError'>, Incorrect email
+line #9738, <class 'ValueError'>, Age too large
+line #9742, <class 'ValueError'>, Age too large
 line #9748, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #9762, <class '__main__.NotEmailError'>, Incorrect email
+line #9781, <class 'ValueError'>, Age too large
+line #9798, <class 'ValueError'>, Age too large
+line #9814, <class '__main__.NotEmailError'>, Incorrect email
+line #9834, <class 'ValueError'>, Age too large
+line #9851, <class '__main__.NotNameError'>, Invalid name Джигурда42
+line #9880, <class '__main__.NotEmailError'>, Incorrect email
 line #9885, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #9897, <class '__main__.NotEmailError'>, Incorrect email
+line #9905, <class 'ValueError'>, Age too large
+line #9906, <class 'ValueError'>, Age too large
+line #9912, <class 'ValueError'>, Age too small
+line #9916, <class 'ValueError'>, Age too large
+line #9923, <class '__main__.NotNameError'>, Invalid name Яочуан42
+line #9925, <class 'ValueError'>, Age too large
+line #9930, <class 'ValueError'>, Age too large
+line #9934, <class 'ValueError'>, Age too large
+line #9935, <class '__main__.NotEmailError'>, Incorrect email
 line #9937, <class 'ValueError'>, not enough values to unpack (expected 3, got 1)
+line #9939, <class '__main__.NotNameError'>, Invalid name Джамшут666
+line #9953, <class 'ValueError'>, Age too small
+line #9961, <class 'ValueError'>, Age too large
+line #9965, <class 'ValueError'>, Age too small
+line #9974, <class 'ValueError'>, Age too small
+line #9990, <class '__main__.NotNameError'>, Invalid name Ли42
+line #9991, <class '__main__.NotNameError'>, Invalid name Тролль666
+line #9998, <class 'ValueError'>, Age too small
